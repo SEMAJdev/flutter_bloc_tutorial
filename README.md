@@ -1,6 +1,6 @@
 # flutter_bloc_tutorial
 
-A new Flutter project.
+flutter tutorial with BloC Pattern
 
 ## Getting Started
 
